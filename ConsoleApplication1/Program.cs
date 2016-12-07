@@ -20,6 +20,8 @@ namespace ConsoleApplication1
 
             //It is the second line ofc
 
+            //This is the test of VS2016
+
             string textTest = "12 bir sayıdır" + 35;
 
             int numberTest = 12;
