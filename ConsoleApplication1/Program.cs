@@ -17,6 +17,9 @@ namespace ConsoleApplication1
 
             //This is the test line for pull
 
+
+            //It is the second line ofc
+
             string textTest = "12 bir sayıdır" + 35;
 
             int numberTest = 12;
